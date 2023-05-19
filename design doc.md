@@ -1,7 +1,20 @@
 Game
 
 map
-    dungeon
+    One map
+    '#' Walls
+    '.' Walkable area
     
+
+
+
+
+Player
+
+NPC
+    
+    
+
+
 
 
